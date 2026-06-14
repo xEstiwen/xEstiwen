@@ -2,7 +2,7 @@
 
 # Estiwen
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZzZqNnp6Nnp6Nnp6Nnp6Nnp6Nnp6Nnp6Nnp6Nnp6Nnp6Nnp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/12xMvwRcFcUl0k/giphy.gif](https://github.com/xEstiwen/xEstiwen/blob/main/contact.gif" width="100%" />
+<img src="https://github.com/xEstiwen/xEstiwen/blob/main/contact.gif" width="100%" />
 
 <br>
 
