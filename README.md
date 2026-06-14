@@ -1,10 +1,8 @@
 <div align="center">
 
+<img src="https://github.com/xEstiwen/xEstiwen/blob/main/contact.gif" width="600px" style="max-width: 100%; border-radius: 8px;" />
+
 # Estiwen
-
-<img src="https://github.com/xEstiwen/xEstiwen/blob/main/contact.gif" width="100%" />
-
-<br>
 
 <a href="https://github.com/xEstiwen">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
